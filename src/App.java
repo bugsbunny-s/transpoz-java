@@ -1,7 +1,6 @@
 
 public class App {
     public static void main(String[] args) {
-        // patika.dev java 101 Matris Transpozunu ekrana yazdırma uygulaması. @bilalertugrul
         int[][] matris = {
                 {3,6,9},
                 {2,4,6},
